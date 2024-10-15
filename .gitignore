@@ -1,0 +1,21 @@
+# Ignore node_modules and virtual environments
+node_modules/
+venv/
+env/
+
+# Ignore IDE settings
+.vscode/
+.idea/
+
+# Ignore data files
+data/                 # All files inside the data directory
+*.csv               # Ignore all CSV files
+*.json              # Ignore all JSON files
+*.xlsx              # Ignore all Excel files
+
+# Ignore logs, backups, and large files
+*.log
+*.bak
+*.zip
+*.tar.gz
+data/
