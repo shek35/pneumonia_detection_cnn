@@ -19,3 +19,8 @@ data/                 # All files inside the data directory
 *.zip
 *.tar.gz
 data/
+static/uploads/
+
+# Ignore Flask server logs or temp files
+instance/
+*.log
