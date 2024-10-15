@@ -1,0 +1,2 @@
+Pneumonia Detection using CNN
+This project develops a convolutional neural network (CNN) to classify chest X-ray images as either "Normal" or "Pneumonia." The model is built using TensorFlow and trained on the publicly available Chest X-ray Images (Pneumonia) dataset from Kaggle (https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/data). It achieves binary classification of pneumonia based on image input.
